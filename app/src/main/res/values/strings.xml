@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mater</string>
+    <string name="firstname">Firstname</string>
+    <string name="btnName">Submit</string>
+</resources>
